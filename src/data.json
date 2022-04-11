@@ -1,0 +1,129 @@
+{
+  "projects":[
+  {
+    "id":"eldenringweapons",
+    "name":"Elden Ring Weapons",
+    "img":["./Assets/projects/eldenringweapon.jpg", "./Assets/projects/eldenringweapon2.jpg","./Assets/projects/eldenringweapon3.jpg"],
+    "live":"https://eldenringweapons.com",
+    "github":"https://github.com/arthurlee945/EldenRingWeapons",
+    "tools":["React", "Sass", "TypeScript", "Three.JS"],
+    "info":"Simple app displaying 3D models of all the weapons from a hit game, Elden Ring!"
+  },
+  {
+    "id":"factOrInsult",
+    "name":"Fact or Insult",
+    "img":["./Assets/projects/Insult4.jpg", "./Assets/projects/Insult3.jpg","./Assets/projects/Insult2.jpg","./Assets/projects/Insult.jpg"],
+    "live":"https://factorinsult.xyz/",
+    "github":"https://github.com/arthurlee945/Random-Fact-Website",
+    "tools":["React", "Sass", "JavaScript", "Random Facts API", "Insult API" ],
+    "info":"Play nice, and this fun little pup will give you a random fact. Get on her bad side, and you may find your feelings hurt."
+  },
+  {
+    "id":"floppy",
+    "name":"Floppy Dog",
+    "img":["./Assets/projects/floppy.jpg", "./Assets/projects/floppy2.jpg","./Assets/projects/floppy3.jpg"],
+    "live":"https://arthurlee945.github.io/floppy/",
+    "github":"https://github.com/arthurlee945/floppy",
+    "tools":["TypeScript", "React", "Sass"],
+    "info":"Simple Clone of Flappy Bird using Typescript and React."
+  },
+  {
+    "id":"ipTracker",
+    "name":"IP Tracker",
+    "img":["./Assets/projects/IpTracker.jpg"],
+    "live":"https://arthurlee945.github.io/IP-Tracker-API/",
+    "github":"https://github.com/arthurlee945/IP-Tracker-API",
+    "tools":["React", "Sass", "JavaScript", "IP Geolocation API", "Google Maps"],
+    "info":"This website will give you information about an IP's origin, including its address!"
+  },
+  {
+    "id":"spaceTourism",
+    "name":"Space Tourism",
+    "img":["./Assets/projects/SpaceTourism3.jpg", "./Assets/projects/SpaceTourism2.jpg", "./Assets/projects/SpaceTourism.jpg" ],
+    "live":"https://arthurlee945.github.io/SpaceInfoPage/",
+    "github":"https://github.com/arthurlee945/SpaceInfoPage",
+    "tools":["HTML", "CSS", "JavaScript"],
+    "info":"A multi-page website dedicated to all things space travel!"
+  },
+  {
+    "id":"rockPaperScissors",
+    "name":"Rock-Paper-Scissors",
+    "img":["./Assets/projects/RPS.jpg", "./Assets/projects/RPS3.jpg", "./Assets/projects/RPS2.jpg"],
+    "live":"https://arthurlee945.github.io/RockPaperScissorsGame/",
+    "github":"https://github.com/arthurlee945/RockPaperScissorsGame",
+    "tools":["React", "Sass", "JavaScript"],
+    "info":"A no strategy needed game of rock-paper-scissors."
+  },
+  {
+    "id":"drumTriangle",
+    "name":"Drum and Triangle",
+    "img":["./Assets/projects/Drum2.jpg", "./Assets/projects/Drum.jpg"],
+    "live":"https://arthurlee945.github.io/Drum-and-Triangle-Set/",
+    "github":"https://github.com/arthurlee945/Drum-and-Triangle-Set",
+    "tools":["HTML", "CSS", "JavaScript"],
+    "info":"A simple drum set and triangle. A fun UX for the musician inside each of us!"
+  },
+  {
+    "id":"urlShrt",
+    "name":"Compact URL",
+    "img":[ "./Assets/projects/URLShortner2.jpg", "./Assets/projects/URLShortner.jpg"],
+    "live":"https://arthurlee945.github.io/URL-Shortening-API/",
+    "github":"https://github.com/arthurlee945/URL-Shortening-API",
+    "tools":["React", "Sass", "JavaScript", "shrtcode API"],
+    "info":"Increase efficiency and accessibility by condensing complex URLs into compact, ready-to-use links."
+  },
+  {
+    "id":"solarSystemApp",
+    "name":"Solar System",
+    "img":["./Assets/projects/SolarSystem3.jpg", "./Assets/projects/SolarSystem2.jpg", "./Assets/projects/SolarSystem.jpg" ],
+    "live":"https://arthurlee945.github.io/SolarSystemApp/",
+    "github":"https://github.com/arthurlee945/SolarSystemApp",
+    "tools":["React", "Sass", "JavaScript", "NASA"],
+    "info":"A simple introduction to our solar system created by images and information about each planet."
+  },
+  {
+    "id":"jobPostingUi",
+    "name":"Job Posting UI",
+    "img":[ "./Assets/projects/jobPosting3.jpg", "./Assets/projects/jobPosting2.jpg", "./Assets/projects/jobPosting.jpg"],
+    "live":"https://arthurlee945.github.io/JobListingFilter/",
+    "github":"https://github.com/arthurlee945/JobListingFilter",
+    "tools":["React", "Sass", "JavaScript"],
+    "info":"A simple job posting UI with filter tags that allow users to specify job requirements."
+  },
+  {
+    "id":"countryInfoAPI",
+    "name":"Country Info API",
+    "img":[ "./Assets/projects/CountryAPI3.jpg","./Assets/projects/CountryAPI2.jpg", "./Assets/projects/CountryAPI.jpg"],
+    "live":"https://arthurlee945.github.io/Rest-Country-API/",
+    "github":"https://github.com/arthurlee945/Rest-Country-API",
+    "tools":["React", "Sass", "JavaScript", "Rest Counties API" ],
+    "info":"A website with information on each country created with a React and Rest Countries API."
+  },
+  {
+    "id":"launchCountDown",
+    "name":"Count Down",
+    "img":["./Assets/projects/LaunchCountDown.jpg"],
+    "live":"https://arthurlee945.github.io/launchCountdownTimer/",
+    "github":"https://github.com/arthurlee945/launchCountdownTimer",
+    "tools":["HTML", "CSS", "JavaScript"],
+    "info":"A simple countdown landing page for your launching indication need."
+  },
+  {
+    "id":"interactiveComment",
+    "name":"Comment UI",
+    "img":[ "./Assets/projects/InteractiveComments2.jpg", "./Assets/projects/InteractiveComments.jpg"],
+    "live":"https://arthurlee945.github.io/InteractiveCommentSection/",
+    "github":"https://github.com/arthurlee945/InteractiveCommentSection",
+    "tools":["React", "Sass", "JavaScript"],
+    "info":"An interactive comment section where you can add, edit, and remove your posts."
+  },
+  {
+    "id":"ROOMLanding",
+    "name":"ROOM Landing Page",
+    "img":["./Assets/projects/RoomLanding2.jpg", "./Assets/projects/RoomLanding.jpg"],
+    "live":"https://arthurlee945.github.io/FurnitureHomePageSrc/",
+    "github":"https://github.com/arthurlee945/FurnitureHomePageSrc",
+    "tools":["React", "Sass", "JavaScript"],
+    "info":"A simplistic furniture company website."
+  }]
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 500.0 400.0"
+	enable-background="new 0 0 500.0 400.0"
+	xml:space="preserve">
+<defs>
+	<linearGradient id="fillGrad0" x1="49.118%" y1="89.898%" x2="49.514%" y2="0.000%">
+   	<stop offset="0.000%" style="stop-color:#FF8E54;stop-opacity:1.000" />
+		<stop offset="29.669%" style="stop-color:#FFA579;stop-opacity:1.000" />
+		<stop offset="66.667%" style="stop-color:#FFA579;stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:#FFCFB7;stop-opacity:1.000" />
+	</linearGradient>
+
+</defs>
+	<path
+		transform = "rotate(-0.00 250.00 200.00)"
+		fill="url(#fillGrad0)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="0.000"
+		fill-rule="nonzero"
+		stroke-width="0.4"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M0.00,0.00L500.00,0.00L500.00,400.00L0.00,400.00zM168.00,0.00C208.00,-0.00,208.00,60.00,248.00,60.00L500.00,60.00L500.00,0.00L168.00,0.00zM500.00,400.00Q500.00,395.00,500.00,390.00Q500.00,400.00,490.00,400.00M504.90,404.90Q504.90,399.90,504.90,393.90Q504.90,404.90,494.90,404.90M10.00,400.00Q0.00,400.00,0.00,390.00Q0.00,395.00,0.00,400.00M0.00,0.00Q0.00,5.00,0.00,35.00Q0.00,0.00,35.00,0.00M490.00,60.00Q500.00,60.00,500.00,70.00Q500.00,65.00,500.00,60.00"/>
+</svg>
